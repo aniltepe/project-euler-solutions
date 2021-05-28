@@ -1,0 +1,7 @@
+z:\belgelerim\B5KUTKM\My Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe
+z:\belgelerim\B5KUTKM\My Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.pdb
+z:\belgelerim\B5KUTKM\My Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.exe
+z:\belgelerim\B5KUTKM\My Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.pdb
+z:\belgelerim\B5KUTKM\My Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csprojAssemblyReference.cache
+z:\belgelerim\B5KUTKM\My Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csproj.CoreCompileInputs.cache
+z:\belgelerim\B5KUTKM\My Documents\Visual Studio 2017\Projects\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe.config

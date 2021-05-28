@@ -1,0 +1,11 @@
+Subset bulma: Problem 51'de ama ayrý fonksiyon þeklinde deðil, düzenlenmesi lazým
+IsPrime: Problem 51
+Faktöriyel ve Kombinasyon (combinatoric): Problem 53
+IsPalindrome ve sayýnýn diziliþ tersi bulma: Problem 55
+Liste bazýnda toplama ve çarpma: Problem 56
+Int2BaseTwo ve BaseTwo2Int: Problem 59
+Bitwise XOR: Problem 59
+Permütasyon: Problem 62 - Alternative
+Liste bazýnda üs alma: Problem 63
+IsSquare: Problem 64
+
